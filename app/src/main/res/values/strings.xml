@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Jendral Soedirman</string>
+    <string name="menu_maps">Maps</string>
+    <string name="menu_alarm">Alarm</string>
+    <string name="menu_movie">Movie</string>
+    <string name="menu_anggota">Anggota</string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>

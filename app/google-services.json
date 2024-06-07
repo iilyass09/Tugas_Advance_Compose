@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "683977313118",
+    "project_id": "tugas-advance-238ab",
+    "storage_bucket": "tugas-advance-238ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:683977313118:android:8d6326db93381668675dcf",
+        "android_client_info": {
+          "package_name": "com.example.tugas_advance"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqoZV7DbIexyEqa2Wz_8OcSAM72YJ6d2I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
